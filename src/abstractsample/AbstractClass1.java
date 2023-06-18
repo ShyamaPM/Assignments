@@ -1,5 +1,6 @@
 package abstractsample;
 
+//test
 public abstract class AbstractClass1 {
 	
 	public abstract void add();
